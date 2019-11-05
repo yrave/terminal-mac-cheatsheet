@@ -94,6 +94,21 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | !! |  Execute the last command typed |
 | !!:p |  Print to the console the last command typed |
 
+## ARGUMENT HISTORY
+
+| Key/Command | Description |
+| ----------- | ----------- |
+| !^ | First argument |
+| !$ | Last argument |
+| !* | All arguments |
+| !:n | Argument at position n |
+| !:n-m | arguments at position n to m |
+| !:2 | Second argument |
+| !:2-4 | Second to fourth arguments |
+
+
+[//]: # (https://stackoverflow.com/a/32332694)
+
 ## FILE MANAGEMENT
 
 | Key/Command | Description |
