@@ -2,21 +2,6 @@
 
 Letters are shown capitalized for readability only. Capslock should be off.
 
-- [Polska wersja](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/polish)
-- [Versão em Portuguêse](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/portugues)
-- [Türkçe Versiyon](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/turkish)
-- [Phiên bản tiếng việt](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/tieng-viet)
-- [Русская версия](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/russian)
-- [中文](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/中文)
-- [Korean](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/korean)
-- [French](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/french)
-- [Shqip (Albanian)](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/albanian)
-- [Spanish (Español)](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/spanish)
-- [Ukrainian](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/ukrainian)
-
-
-------------
-
 ## SHORTCUTS
 
 | Key/Command | Description |
