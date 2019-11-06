@@ -1,6 +1,6 @@
 # Terminal Cheatsheet for Mac (Basics)
 
-
+Letters are shown capitalized for readability only. Capslock should be off.
 
 - [Polska wersja](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/polish)
 - [Versão em Portuguêse](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/portugues)
@@ -17,7 +17,6 @@
 
 ------------
 
-_Letters are shown capitalized for readability only._  _Capslock should be off._
 ## SHORTCUTS
 
 | Key/Command | Description |
