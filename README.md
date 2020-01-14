@@ -73,6 +73,10 @@ Letters are shown capitalized for readability only. Capslock should be off.
 | ----------- | ----------- |
 | history n |  Shows the stuff typed – add a number to limit the last n items |
 | Ctrl + r  | Interactively search through previously typed commands |
+| !-x  | Run the command you run x commands ago |
+| !-2  | Run the second last command |
+| !x  | Run command x in your history |
+| !23  | Run command 23 in your history |
 | ![value] |  Execute the last command typed that starts with ‘value’ |
 | ![value]:p |  Print to the console the last command typed that starts with ‘value’ |
 | !! |  Execute the last command typed |
