@@ -77,8 +77,8 @@ Letters are shown capitalized for readability only. Capslock should be off.
 | !-2  | Run the second last command |
 | !x  | Run command x in your history |
 | !23  | Run command 23 in your history |
-| ![value] |  Execute the last command typed that starts with ‘value’ |
-| ![value]:p |  Print to the console the last command typed that starts with ‘value’ |
+| !value |  Execute the last command typed that starts with ‘value’ |
+| !value:p |  Print to the console the last command typed that starts with ‘value’ |
 | !! |  Execute the last command typed |
 | !!:p |  Print to the console the last command typed |
 | !!:gs/find/replace/ |  Replace *find* with *replace* in the last command |
